@@ -4,9 +4,9 @@ Mysql 5.7+
 
 项目部署：   
 1 、初始化数据库：在mysql中执行doc目录下的[blog.sql文件](./doc/blog.sql) 
-2、将项目打成jar包:blog-api.jar    
-3、在系统命令行中进入jar包所在目录     
-4、执行命令：java -jar ./blog-api.jar
+2、配置application的配置选项(见下表)   
+3、将resources文件夹设置为source root.    
+4、运行函数main()
 
 项目说明  
 项目架构：SpringBoot+MybatisPlus   
