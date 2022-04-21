@@ -6,7 +6,7 @@ Mysql 5.7+
 1 、初始化数据库：在mysql中执行doc目录下的[blog.sql文件](./doc/blog.sql) 
 2、配置application的配置选项(见下表)   
 3、将resources文件夹设置为source root.    
-4、运行函数main()
+4、运行blogApiApplication文件的函数main()
 
 项目说明  
 项目架构：SpringBoot+MybatisPlus   
